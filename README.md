@@ -1,4 +1,4 @@
-# <img src="/">
+# <img src="/6E66ACA7-FB00-474A-B079-89615E89B1B0.png">
 OpenAMP Lite X is an open source continuation of the forgotten MacAMP Lite X by Subband Technologies.
 
 ##### Backstory
