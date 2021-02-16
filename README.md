@@ -1,4 +1,4 @@
-# OpenAMP Lite X
+# <img src="/">
 OpenAMP Lite X is an open source continuation of the forgotten MacAMP Lite X by Subband Technologies.
 
 ##### Backstory
